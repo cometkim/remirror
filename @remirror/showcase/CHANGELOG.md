@@ -1,5 +1,17 @@
 # @remirror/showcase
 
+## 0.7.6
+
+### Patch Changes
+
+- f7969a67: - Update a username in exported showcase data to reflect a failing scenario.
+- Updated dependencies [f7969a67]
+- Updated dependencies [db20a731]
+- Updated dependencies [47493cc2]
+  - @remirror/editor-social@0.9.0
+  - @remirror/editor-wysiwyg@0.8.1
+  - @remirror/extension-code-block@0.7.5
+
 ## 0.7.5
 
 ### Patch Changes

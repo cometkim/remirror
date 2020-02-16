@@ -5,7 +5,7 @@
   "author": "Ifiok Jr. <ifiokotung@gmail.com>",
   "homepage": "https://github.com/remirror/remirror/tree/master/@remirror/extension-code-block",
   "repository": "https://github.com/remirror/remirror/tree/master/@remirror/extension-code-block",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "main": "lib/index.js",
   "module": "lib/dist/extension-code-block.esm.js",
   "files": [
